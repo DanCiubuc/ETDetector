@@ -2,5 +2,5 @@
 
 Capstone Project for the course "Artificial Inteligence Course" provided by Samsung Inovation Campus.
 
-See the "presentation.pptx" for a quick summary of what was done. 
+See the "ApresentacaoSAI1.pptx" file for a quick summary, in English, of what was done. 
 
